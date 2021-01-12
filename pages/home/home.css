@@ -1,0 +1,22 @@
+ion-content {
+background : linear-gradient(to bottom, #654ea3, #eaafc8);
+}
+h2 { 
+  color: #eaafc8; 
+  text-align: center;
+
+}
+p{
+  color:rgb(255, 255, 255);
+  text-align: justify;
+  font-family: 'Courier New';
+
+}
+h2.BMI{
+  color: black;
+
+}
+.itemclear {
+  background:transparent;
+
+}
